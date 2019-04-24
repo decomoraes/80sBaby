@@ -50,7 +50,7 @@ span.cm-bracket		{ color: #54d4ff; }
 }
 
 .CodeMirror-gutters {
-	background: #2e2e31;
+	background: #000000;
 	border-right: 1px solid #262629;
 }
 
@@ -87,7 +87,7 @@ span.cm-bracket		{ color: #54d4ff; }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
 	color: #fff;
-    background-color: #2e2e31;
+    background-color: #000000;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt {
