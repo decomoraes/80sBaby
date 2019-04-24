@@ -12,9 +12,9 @@ span.cm-link		{ color: #bbeb1b; }
 span.cm-string		{ color: #bbeb1b; }
 span.cm-string-2    { color: #bbeb1b; }
 
-span.cm-meta		{ color: #7fb0ff; }
-span.cm-property	{ color: #7fb0ff; }
-span.cm-tag			{ color: #7fb0ff; }
+span.cm-meta		{ color: #f90086; }
+span.cm-property	{ color: #f90086; }
+span.cm-tag			{ color: #f90086; }
 
 span.cm-variable-2	{ color: #be9cff; }
 span.cm-variable-3	{ color: #be9cff; }
