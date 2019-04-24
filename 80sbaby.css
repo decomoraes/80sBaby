@@ -7,10 +7,10 @@ span.cm-header      { color: #fff900; }
 span.cm-qualifier	{ color: #fff900; }
 span.cm-variable	{ color: #fff900; }
 
-span.cm-atom		{ color: #bbeb1b; }
-span.cm-link		{ color: #bbeb1b; }
-span.cm-string		{ color: #bbeb1b; }
-span.cm-string-2    { color: #bbeb1b; }
+span.cm-atom		{ color: #08fbcf; }
+span.cm-link		{ color: #08fbcf; }
+span.cm-string		{ color: #08fbcf; }
+span.cm-string-2    { color: #08fbcf; }
 
 span.cm-meta		{ color: #f90086; }
 span.cm-property	{ color: #f90086; }
