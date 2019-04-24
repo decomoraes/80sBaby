@@ -82,7 +82,7 @@ span.cm-bracket		{ color: #54d4ff; }
 }
 
 .CodeMirror-activeline-background {
-	background: #3b3b3e !important;
+	background: #000000 !important;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
